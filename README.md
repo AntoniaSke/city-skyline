@@ -1,17 +1,32 @@
-# City Skyline
+# 🌆 City Skyline
 
-Demo CSS/HTML skyline με buildings και gradients.
+Demo HTML/CSS project που δημιουργεί ένα **skyline πόλης** με buildings, gradients και responsive εναλλαγή **Day / Night**.
 
-## Live
+## 🌐 Live Demo
 🔗 [Δες το project εδώ](https://antoniaske.github.io/city-skyline/)
 
-## Χρήση
-Απλά άνοιξε το `index.html` σε browser.
+## 🕹️ Περιγραφή
+Το **City Skyline** είναι ένα responsive CSS-only project.  
+Όταν η οθόνη μικραίνει (ή όταν προβάλλεται σε κινητό), το φόντο και τα χρώματα αλλάζουν, δημιουργώντας **εφέ νύχτας** 🌙.
 
-## Δομή
-- `index.html`: markup
-- `styles.css`: όλα τα styles (CSS variables, gradients, media queries)
+Χρησιμοποιεί:
+- CSS **variables** για τα χρώματα
+- **linear** & **radial gradients**
+- **flexbox** για τη διάταξη
+- **media query** για την αλλαγή σε night mode
 
-## Screenshots
-![City Skyline](assets/Screenshot-date.png)
-![City Skyline](assets/Screenshot-night.png)
+## 🧱 Δομή
+- `index.html` → markup (δομή των buildings)
+- `styles.css` → όλα τα styles, gradients και responsive ρυθμίσεις
+
+## 🖼️ Screenshots
+
+### 🌞 Day Mode
+![City Skyline - Day](assets/Screenshot-day.png)
+
+### 🌙 Night Mode
+![City Skyline - Night](assets/Screenshot-night.png)
+
+## ⚙️ Χρήση
+Κατέβασε το project και άνοιξε το `index.html` σε οποιονδήποτε browser.
+
