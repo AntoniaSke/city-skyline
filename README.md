@@ -3,7 +3,7 @@
 Demo CSS/HTML skyline με buildings και gradients.
 
 ## Live
-(θα συμπληρωθεί μετά το GitHub Pages)
+https://antoniaske.github.io/city-skyline/
 
 ## Χρήση
 Απλά άνοιξε το `index.html` σε browser.
@@ -12,5 +12,4 @@ Demo CSS/HTML skyline με buildings και gradients.
 - `index.html`: markup
 - `styles.css`: όλα τα styles (CSS variables, gradients, media queries)
 
-## Άδεια
-MIT
+## Screenshots
