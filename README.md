@@ -27,6 +27,4 @@ Demo HTML/CSS project που δημιουργεί ένα **skyline πόλης** 
 ### 🌙 Night Mode
 ![City Skyline - Night](assets/Screenshot-night.png)
 
-## ⚙️ Χρήση
-Κατέβασε το project και άνοιξε το `index.html` σε οποιονδήποτε browser.
 
